@@ -60,8 +60,6 @@ const data = {
             date: '2018 - 2019',
             grade: 'Formation de développeur web full-stack',
         },
-        
-        
     ],
     skills: {
         english: 'Anglais: C1',
@@ -70,10 +68,10 @@ const data = {
         basics: 'HTML5/CSS3/JS',
         framework: 'React',
         more: 'Redux',
-
     },
     hobbies: {
         sports: 'Football en club, Snowboard',
         readings: 'Idriss Aberkane, Olivier Roland, Anthony Beevor, Maxime Chattam, Donato Carrisi'
     },
 };
+export default data;
